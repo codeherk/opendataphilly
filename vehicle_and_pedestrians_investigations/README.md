@@ -1,9 +1,4 @@
-# opendataphilly
-Notebooks using OpenDataPhilly catalog of public data
-
-## Projects
-
-### [Vehicle & Pedestrians Investigations](vehicle_and_pedestrians_investigations/)
+### Vehicle & Pedestrians Investigations
 
 This Notebook generates plots of data queried from [Vehicle & Pedestrian Investigations Dataset](https://opendataphilly.org/datasets/vehicle-pedestrian-investigations/) and saves the image in the directory. The following categories are available:
 
